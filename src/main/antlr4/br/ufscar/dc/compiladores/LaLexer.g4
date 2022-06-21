@@ -1,11 +1,11 @@
-lexer grammar AlgumaLexer;
+lexer grammar LaLexer;
 
 WS  :   ( ' '
         | '\t'
         | '\r'
         | '\n'
         ) {skip();};
-
+        
 Reserved_word:
         'algoritmo'
         | 'fim_algoritmo'

@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>br.ufscar.dc.compiladores</groupId>
-  <artifactId>alguma-lexico</artifactId>
+  <artifactId>la-lexico</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>alguma-lexico</name>
+  <name>la-lexico</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
