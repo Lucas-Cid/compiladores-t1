@@ -1,5 +1,8 @@
 # LA Léxico
 
+## Aluno
+Lucas Machado Cid - 769841
+
 ## Softwares necessários
 
 - Apache Maven >= 3.6.3
